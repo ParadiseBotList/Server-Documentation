@@ -3,8 +3,7 @@ sort: 4
 ---
 
 # Verification
-
-Any Bots that are listed on the Paradise Bot List website must first pass our Verification Phase. 
+Any Bots that are listed on the Paradise Bot List website are put in a "queue" and must first pass our Verification Phase. 
 Verifying Bots is relatively straight forward and can be done using the following steps:
 
 ---
@@ -24,8 +23,11 @@ The bots commands should meet the following requirements
 1. No NSFW Content outside of NSFW Marked Channels.
 2. No publicly accessible Eval Commands.
 3. No publicly accessible Exec Commands.
+4. Provide proper implementation of a Permissions Schema. (IE: Can't ban Admins etc)
+
 ---
 
 ## How to Verify
+If a 
 
 ---
