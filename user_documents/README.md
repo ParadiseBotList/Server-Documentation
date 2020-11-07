@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Channel Text
+# User Documentation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
