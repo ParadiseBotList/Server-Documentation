@@ -1,16 +1,16 @@
 ---
-title: "Welcome to Rapture"
-keywords: sample homepage
+title: "Welcome to Paradise Bot List"
+keywords: Discord Bot List
 tags: [getting_started]
 permalink: index.html
-summary: This site contains the documentation for Rapture, a BDSM-themed Discord Server.
+summary: This site contains the documentation for the Paradise Bot List Discord Server.
 ---
 
-# Welcome to Rapture
+# Welcome to Paradise
 
-Rapture is a BDSM-themed Discord Server.  It is currently invite-only.
+Paradise is a Bot List Themed Discord Server.
 
-This site has all of the documentation that is used on the server, including rules, policies, text, etc.  It also has the moderation manual that is used by the moderation team.
+This site has all of the documentation that is used on the server, including rules, policies, text, etc.  It also houses our moderation manual that is used by the PBL Team.
 
 ## Licenses
 
