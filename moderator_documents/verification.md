@@ -4,7 +4,8 @@ sort: 4
 
 # Verification
 
-Verifying Bots is relatively straight forward.
+Any Bots that are listed on the Paradise Bot List website must first pass our Verification Phase. 
+Verifying Bots is relatively straight forward and can be done using the following steps:
 
 ---
 
