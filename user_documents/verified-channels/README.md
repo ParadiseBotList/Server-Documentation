@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Service Area
+# Verified Channels
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
