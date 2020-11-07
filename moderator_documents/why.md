@@ -4,7 +4,7 @@ sort: 1
 
 # Why is This Here?
 
-> "OMG!  Did you just put moderator documents online for everyone to see?!"
+> "OMG!  Did you just put staff documents online for everyone to see?!"
 
 Oh yes we did.
 
