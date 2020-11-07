@@ -1,5 +1,5 @@
 title: Paradise Bot List - Server Docs
-remote_theme: rundocs/jekyll
+remote_theme: rundocs/jekyll-theme
 
 readme_index: 
   with_frontmatter: true
