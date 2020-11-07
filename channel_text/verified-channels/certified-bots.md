@@ -10,4 +10,4 @@ sort: 1
 All Bots who have access to this channel should follow these guidelines:
 * No NSFW Content outisde of NSFW Channels.
 
-+++
+---
