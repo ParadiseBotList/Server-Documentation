@@ -11,5 +11,6 @@ sort: 1
 ## Channel Rules
 All Bots who have access to this channel should follow these guidelines:
 * No NSFW Content outisde of NSFW Channels.
+* No Spam Messages.
 
 ---
