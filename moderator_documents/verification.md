@@ -26,7 +26,9 @@ The bots commands should meet the following requirements
 4. Provide proper implementation of a Permissions Schema. (IE: Can't ban Admins etc)
 5. Have a working majority of commands.
 
-## Notes:
+---
+
+## Designated Bots
 * Bots with a designated purpose (Ie: Ticket Bot) is not expected to follow our 10 working commands rule. As it has and is following it's designated purpose these types of bots aren't command heavy.
 ---
 
