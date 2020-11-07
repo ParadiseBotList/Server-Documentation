@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Service Area
+# Support Area
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
