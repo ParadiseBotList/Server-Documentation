@@ -4,83 +4,67 @@ sort: 3
 
 # Moderation and Punishments
 
-Moderating the server is relatively straight-forward.  I won't go through the entire [carl-bot documentation](https://docs.carl.gg/moderation/moderation/) here but I will go over some of the specific commands we'll be using.
+Moderating the server is relatively straight-forward.  I won't go through the entire [Paradise Bot Documentation](https://docs.paradisebots.net/commands) here but I will go over some of the specific commands we'll be using.
+
+---
 
 ## Message/Chat Management
 
-Chat management is fairly straight forward.  You can mass-delete messages (with or without options).  This might be necessary to clean up any drama or inappropriate messages.
+Chat management is fairly straight forward.  You can mass-delete messages.  This might be necessary to clean up any drama or inappropriate messages.
 
 ### Purge or delete messages
 
 ```
-!purge x
+p>clear x
 ```
 
-Where `x` is the number of messages to purge.  Keep in mind that purges do not show up in the delete logs.
+Where `x` is the number of messages to purge.  Keep in mind that purges do not show up in the official delete logs.
 
-### Purge or delete messages from a specific person
-
-```
-!purge user @someuser 100
-```
-
-Where `@someuser` is mentioning the username in question and `100` is the number of messages to delete.
-
+---
 
 ## User Management
 
-### Jail (or Mute)
+### Mutes
 
-Jailing or muting a member will remove all roles from their profile and add the "Jailed" role.  Jailed members can:
+Muting a member will add the "Muted" role to the user.  Muted members can:
 
-- See the Welcome, Rules and Policies, and Support Ticket channels
-- All other chat channels are hidden except for the "Jail" chat channel
+- See the Information & Support channels.
+- All other chat channels are hidden.
 
-The Jail chat channel is unique in that this is the only channel where moderators have "Manage Channel" permissions.  This is to allow mods to chat without being stopped by the Slowdown mode.
-
-To jail a member, issue the following command:
+To mute a member, issue the following command:
 
 ```
-!hardmute USER_ID <duration> <mute reason>
+p>mute @Someone <mute reason>
 ```
-
-Duration should be set to an appropriate timeframe and should not exceed 10 days.  Most mutes should be for a day or two, using discretion as needed.
 
 Some examples:
 
 ```
-!hardmute 1234567890 1d You're being a bit of an ass right now.  Take a break for a day.  Come back fresh tomorrow
-!hardmute 1234567890 48h We suspect you are underage.  In order to continue being a member on our server, you will need to verify.
-!hardmute 1234567890 8h30m You probably shouldn't Discord while at work.
+p>mute @Toxic Dev you're being to toxic.
 ```
 
-Mutes will show in #mod-actions **BUT** will not warn the user.  It's recommended that you issue both a warning and a mute at the same time.
+Mutes will show in #mod-logs channel.
 
-After the jail lifts, you may want to purge the Jail channel.
-
+---
 
 ### Bans
 
-Moderators have the delegated authority to ban users.  While carlbot lacks the granularity to ensure that only tempbans are used, it's my personal belief that mods should have the power to ban indefinitely.
+Admins and Moderators have the delegated authority to ban users.
 
 From a policy standpoint, indefinite bans should only be issued if there is a repeated offense by a member or if user is causing some sort of issue (i.e. raiding).  As a moderator, you are trusted to perform these actions judiciously and without malace.
 
 Do not be afraid to use this power but know that you are wielding it.
 
-To tempban a member, issue the following command:
+To ban a member, issue the following command:
 
 ```
-!tempban USER_ID <duration> <reason>
+p>ban @Someone <reason>
 ```
-
-Duration should be set to an appropriate timeframe.  
 
 Some examples:
 
 ```
-!tempban 1234567890 1d You're a bit thirsty.  Come back after you've rehydrated.
-!tempban 1234567890 365d We suspect you are underage and did not verify.  We're banning you for one year.
-!tempban 1234567890 7d You are a staff member of a server and cannot allow membership unless you either step down as staff on that server or you leave it.
+p>ban @Toxic Dev You're a bit thirsty.  Come back after you've rehydrated.
 ```
 
 ### Mute vs. Ban
