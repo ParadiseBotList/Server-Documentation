@@ -6,7 +6,8 @@ permalink: index.html
 summary: This site contains the documentation for the Paradise Bot List Discord Server.
 ---
 
-## Introduction.
+## Introduction
+
 Paradise is The Discord Bot List that strives to provide all Discord Bots & Bot Devs With a little bit of Freedom!!
 
 This site has all of the documentation that is used on the server, including rules, policies, text, etc.  It also houses our moderation manual that is used by the PBL Team.
