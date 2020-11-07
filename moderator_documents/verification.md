@@ -15,6 +15,7 @@ Verifying Bots is relatively straight forward and can be done using the followin
 ---
 
 ## Bot Guidelines
+* Any and **ALL** Bots that are listed on Paradise Bot List should be in Accordance with our [Discord Bot Rules and Guidelines](https://paradisebots.net/botrules)
 
 ---
 
