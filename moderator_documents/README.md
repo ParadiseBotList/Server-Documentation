@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Moderator Documents
+# Moderator Documentation
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
