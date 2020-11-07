@@ -20,7 +20,9 @@ Verifying Bots is relatively straight forward and can be done using the followin
 ---
 
 ## Bot Commands
-
+* The bots commands should meet the following requirements
+  1. 
+   2. 
 ---
 
 ## How to Verify
