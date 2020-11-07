@@ -20,9 +20,10 @@ Verifying Bots is relatively straight forward and can be done using the followin
 ---
 
 ## Bot Commands
-* The bots commands should meet the following requirements
-  1. No NSFW Content outside of NSFW Marked Channels.
-   2. 
+The bots commands should meet the following requirements
+1. No NSFW Content outside of NSFW Marked Channels.
+2. No publicly accessible Eval Commands.
+3. No publicly accessible Exec Commands.
 ---
 
 ## How to Verify
