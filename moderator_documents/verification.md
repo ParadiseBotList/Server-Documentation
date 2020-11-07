@@ -24,10 +24,19 @@ The bots commands should meet the following requirements
 2. No publicly accessible Eval Commands.
 3. No publicly accessible Exec Commands.
 4. Provide proper implementation of a Permissions Schema. (IE: Can't ban Admins etc)
+5. Have a working majority of commands.
 
+## Notes:
+* Bots with a designated purpose (Ie: Ticket Bot) is not expected to follow our 10 working commands rule. As it has and is following it's designated purpose these types of bots aren't command heavy.
 ---
 
 ## How to Verify
-If a 
+If a bot is in compliance with all of our rules and the requirements above then follow these steps:
+1. Visit our [Staff Panel](https://paradisebots.net/panel) | `https://paradisebots.net/panel `.
+2. Find the bot in the "Bots in Queue" section.
+3. Invite the bot to either our main or testing server.
+4. Click "Approve"
+
+
 
 ---
