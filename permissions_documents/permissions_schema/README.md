@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # Paradise Bots Permissions Schema
