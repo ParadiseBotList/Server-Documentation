@@ -15,8 +15,8 @@ Below is a table of all current permissions and their hexidecimal values:
 
 | Permission                 | Value                  | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
-| SUPER_ADMIN                | 0x0001                 | Allows the user to edit Server Info (Name etc). |
-| ADMINISTRATOR              | 0x0002                 | Grants all permissons. |
+| SUPER_ADMIN                | 0x0001                 | Grants all permissons including Server Management. |
+| ADMINISTRATOR              | 0x0002                 | Grants all permissons excluding Server Management. |
 | VIEW_AUDIT_LOG             | 0x0003                 | Allows the user to view Audit Logs. |
 | VIEW__SERVER_INSIGHTS      | 0x0004                 | Allows the user to view Server Insights. |
 | MANAGE_ROLES               | 0x0005                 | Allows the user to add and remove roles from members. |
