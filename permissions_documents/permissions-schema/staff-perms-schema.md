@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Base Permissions
+# Staff Permissions
 
 Below is a table of all current permissions and their hexidecimal values:
 
@@ -43,17 +43,21 @@ Below is a table of all current permissions and their hexidecimal values:
 | ADMINISTRATOR              | 4                      | Allows execution of all moderation commands |
 | BOT_APPROVERS              | 5                      | Allows execution of all queue commands |
 | PARADISE_DEV               | 6                      | Allows controlling, editing & reverting changes of the Paradise Bots project. |
-| PARADISE_STAFF             | 7                      | Allows execution of staff level commands (check etc) |
+| HEAD_ADMIN                 | 7                      | Allows execution of staff level commands (check etc) |
 | PARADISE_OWNER             | 8                      | Allows controlling, editing & reverting changes of the Paradise Bots project. |
 
 ---
 
 ## Permission Hierarchy
-
-The default role, `@everyone`, always holds the default base permissions for every member of the guild. Each role and user can optionally have additional permissions associated with it.
+* `Paradise Owners`
+* `Head Admin`
+* `Paradise Dev`
+* `Administrator`
+* `Approvers`
+* `Moderators`
 
 ---
 
 ## Calculating a User's Permissions
 
-Paradise Bots permissions are only additive. Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have:
+Paradise Bots permissions are only a additive. Therefore a user's permissions are always exactly the union of their personal permissions and the permissions of every role that they have
