@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Certified Bots
+# Partnered Bots
 
 **#partnered-bots** is a channel that sticks to its name and is intended for our [Partnered Bots](https://paradisebots.net/partnered) only
 
