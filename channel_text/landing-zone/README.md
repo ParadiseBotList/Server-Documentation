@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Landing Zone
+# Information
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
