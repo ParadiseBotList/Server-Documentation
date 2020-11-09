@@ -26,7 +26,7 @@ Below is a table of all current permissions and their hexidecimal values:
 | CHANGE_NICKNAME            | 0x0010                 | Allows the user to modify their nickname. |
 | MANAGE_NICKNAMES           | 0x0011                 | Allows the user to modify any members nickname. |
 
->[!Default Permissions]
+>[!INFORMATION]
 >The default permission value for a staff member is `0x0001`.
 
 ---
