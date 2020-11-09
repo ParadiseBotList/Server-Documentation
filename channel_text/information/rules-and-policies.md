@@ -15,7 +15,7 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 3.  The Moderators have delegated authority to **mute**, **ban** any Discord user.  They exercise these permissions for the betterment of the server and to assist in keeping this place safe.  Permanent bans are decided on a case-by-case basis and if a user is found to be particularly toxic or disruptive, may face immediate permanent ban.
 4.  Members who have specific complaints about another member should DM a member of our staff team.  Please do not publicly denounce someone.
 5.  The Admins and Moderators balance the needs of the community with the specific needs of an individual.  When in doubt, safety and security will supersede the short-term harm that may come to the server.  If you're being harassed by a specific member, please let a staff member know.  Even if they aren't breaking a rule, if someone makes you uncomfortable, **LET US KNOW!!**  We can't help you if we don't know.  If a member of staff is making you uncomfortable, please let a Head Admin or Owner know.
-6.  While staff members entrusted with additional responsibility, they are not above the rules.  If you see a staff member breaking the rules, please DM a head admin.
+6.  While staff members are entrusted with additional responsibility, they are not above the rules.  If you see a staff member breaking the rules, please DM a head admin.
 
 ---
 
