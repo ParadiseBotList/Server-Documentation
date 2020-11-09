@@ -1,5 +1,5 @@
 ---
-title: Permissions
+sort: 1
 ---
 
 Below is a table of all current permissions and their hexidecimal values:
