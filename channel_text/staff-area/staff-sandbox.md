@@ -14,5 +14,5 @@ keep in mind that you represent us Paradise Bots and what you say and do here ca
 here's some general rules and guidelines to help keep everyone safe and happy!!
 1. Absolutely **NO** Racism or Discrimination from Staff Members or Bots.
 2. No hate speech (ie: ping a owner to tell them their bot is garbage) 
-take it to DMs if you have an issue with the bot and you should be as respectful as possible.
-
+take it to DMs if you have an issue with the bot and you should be as respectful as possible when representing our team.
+3. No General conversations, Discussing. Bots features or pinging the owner for help is fine but this is not a place to chat.
