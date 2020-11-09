@@ -14,17 +14,17 @@ Below is a table of all current permissions and their hexidecimal values:
 
 | Permission                 | Value                  | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
-| ADMINISTRATOR              | 0x0001                 | Grants all permissons |
-| VIEW_PUBLIC_LOGS           | 0x0002                 | Allows viewing any action logged in a public channel |
-| VIEW_PRIVATE_LOGS          | 0x0004                 | Allows viewing any action logged in the guild |
-| REVERT_LOG_ACTIONS         | 0x0008                 | Allows reverting any reversible action logged |
-| ADD_AUTO_RESPONSE          | 0x0010                 | Allows adding auto responses to the guild |
-| IGNORE_AUTO_RESPONSE_QUOTA | 0x0020                 | Allows adding auto responses, even if the quota has been reached  |
-| EDIT_ANY_AUTO_RESPONSE     | 0x0040                 | Allows editing any user's auto responeses |
-| DELETE_ANY_AUTO_RESPONSE   | 0x0080                 | Allows deleting any user's auto responses |
-| VIEW_SETTINGS              | 0x0100                 | Allows viewing paradise settings for the guild |
-| MANAGE_SETTINGS            | 0x0200                 | Allows modifying Paradise settings for the guild |
-| EXEC_PURGE_CMD             | 0x0400                 | Allows executing the purge command |
+| ADMINISTRATOR              | 0x0001                 | Grants all permissons. |
+| VIEW_AUDIT_LOG             | 0x0002                 | Allows the user to view Audit Logs. |
+| VIEW__SERVER_INSIGHTS      | 0x0003                 | Allows the user to view Server Insights. |
+| SUPER_ADMIN                | 0x0004                 | Allows the user to edit Server Info (Name etc). |
+| MANAGE_ROLES               | 0x0005                 | Allows the user to add and remove roles from members. |
+| MANAGE_CHANNELS            | 0x0006                 | Allows the user to add, edit and delete channels.  |
+| KICK_MEMBERS               | 0x0007                 | Allows the user to kick a server member.  |
+| BAN_MEMBERS                | 0x0008                 | Allows the user to ban a server member. |
+| CREATE_INVITE              | 0x0009                 | Allows the user to create server invites. |
+| CHANGE_NICKNAME            | 0x0010                 | Allows the user to modify their nickname. |
+| MANAGE_NICKNAMES           | 0x0011                 | Allows the user to modify any members nickname. |
 
 `The default permission value for a new guild is `0x112`.`
 
