@@ -2,11 +2,15 @@
 sort: 1
 ---
 
-# Flags
+# Permissions Schema
 
 Below is a table of all current permissions and their hexidecimal values:
 
-###### Discord Permission Flags
+---
+
+## Flags
+
+###### Permission Flags
 
 | Permission                 | Value                  | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
@@ -22,17 +26,13 @@ Below is a table of all current permissions and their hexidecimal values:
 | MANAGE_SETTINGS            | 0x0200                 | Allows modifying Paradise settings for the guild |
 | EXEC_PURGE_CMD             | 0x0400                 | Allows executing the purge command |
 
-<Alert type="info">
-
-The default permission value for a new guild is `0x112`.
-
-</Alert>
+`The default permission value for a new guild is `0x112`.`
 
 ---
 
 ## Schema
 
-###### Paradise Bot Permission Schema
+###### Permission Schema
 
 | Permission                 | permLevel              | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
