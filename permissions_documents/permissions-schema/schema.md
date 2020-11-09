@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Paradise Bots Permissions
+# Flags
 
 Below is a table of all current permissions and their hexidecimal values:
 
