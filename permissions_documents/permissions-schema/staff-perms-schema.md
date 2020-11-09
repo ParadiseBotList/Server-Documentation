@@ -9,15 +9,16 @@ Below is a table of all current permissions and their hexidecimal values:
 ---
 
 ## Flags
+* Highest to Lowest
 
 ###### Permission Flags
 
 | Permission                 | Value                  | Description                                                 |
 | -------------------------- | ---------------------- | ----------------------------------------------------------- |
-| ADMINISTRATOR              | 0x0001                 | Grants all permissons. |
-| VIEW_AUDIT_LOG             | 0x0002                 | Allows the user to view Audit Logs. |
-| VIEW__SERVER_INSIGHTS      | 0x0003                 | Allows the user to view Server Insights. |
-| SUPER_ADMIN                | 0x0004                 | Allows the user to edit Server Info (Name etc). |
+| SUPER_ADMIN                | 0x0001                 | Allows the user to edit Server Info (Name etc). |
+| ADMINISTRATOR              | 0x0002                 | Grants all permissons. |
+| VIEW_AUDIT_LOG             | 0x0003                 | Allows the user to view Audit Logs. |
+| VIEW__SERVER_INSIGHTS      | 0x0004                 | Allows the user to view Server Insights. |
 | MANAGE_ROLES               | 0x0005                 | Allows the user to add and remove roles from members. |
 | MANAGE_CHANNELS            | 0x0006                 | Allows the user to add, edit and delete channels.  |
 | KICK_MEMBERS               | 0x0007                 | Allows the user to kick a server member.  |
@@ -38,17 +39,14 @@ Below is a table of all current permissions and their hexidecimal values:
 
 ###### Permission Schema
 
-| Permission                 | permLevel              | Description                                                 |
-| -------------------------- | ---------------------- | ----------------------------------------------------------- |
-| USER                       | 0                      | Allows execution of user level commands (help, ping etc) |
-| BOT_DEV                    | 1                      | Allows for certification (User ID is stored internally) |
-| BOT_OWNER                  | 2                      | Allows editing pages of all bots owned by the user. |
-| MODERATOR                  | 3                      | Allows execution of some moderation commands |
-| ADMINISTRATOR              | 4                      | Allows execution of all moderation commands |
-| BOT_APPROVERS              | 5                      | Allows execution of all queue commands |
-| PARADISE_DEV               | 6                      | Allows controlling, editing & reverting changes of the Paradise Bots project. |
-| HEAD_ADMIN                 | 7                      | Allows execution of staff level commands (check etc) |
-| PARADISE_OWNER             | 8                      | Allows controlling, editing & reverting changes of the Paradise Bots project. |
+| Permission                 | Level                  | Highest Value                   | Description                            |
+| -------------------------- | ---------------------- | ------------------------------- | -------------------------------------- |
+| MODERATOR                  | 1                      | 0x0003.                         | Responsible for Moderating the Server. |
+| ADMINISTRATOR              | 2                      | 0x0002.                         | Responsible for Administrator Actions. |
+| BOT_APPROVERS              | 3                      | 0x0002.                         | Responsible for the Bot List itself.   |
+| PARADISE_DEV               | 4                      | 0x0001.                         | Responsible for the website maintenance.|
+| HEAD_ADMIN                 | 5                      | 0x0001.                         | Responsible for the Staff Team as a whole.|
+| PARADISE_OWNER             | 6                      | 0x0001.                         | Responsible for Paradise Bots as a whole. |
 
 ---
 
