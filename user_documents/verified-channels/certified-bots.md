@@ -4,7 +4,7 @@ sort: 1
 
 # Certified Bots
 
-**certified-bots** is a channel that sticks to its name and is intended for our [Certified Bots](https://paradisebots.net/certified) only
+**#certified-bots** is a channel that sticks to its name and is intended for our [Certified Bots](https://paradisebots.net/certified) only
 
 ---
 
