@@ -35,7 +35,7 @@ The bots commands should meet the following requirements
 
 ## How to Verify
 If a bot is in compliance with all of our rules and the requirements above then follow these steps:
-1. Visit our [Staff Panel](https://paradisebots.net/panel) | `https://paradisebots.net/panel `.
+1. Visit our [Staff Panel](https://paradisebots.net/panel/queue) | `https://paradisebots.net/panel `.
 2. Find the bot in the "Bots in Queue" section.
 3. Invite the bot to either our main or testing server.
 4. Click "Approve" and Provide a Reason in the panel.
