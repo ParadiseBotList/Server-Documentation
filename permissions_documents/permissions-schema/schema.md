@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-Below is a table of all current permissions and their hexidecimal values:
+# Paradise Bots Permissions
 
-## Paradise Bots Permissions
+Below is a table of all current permissions and their hexidecimal values:
 
 ###### Discord Permission Flags
 
