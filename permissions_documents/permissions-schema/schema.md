@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Permissions
+# Permissions Schema
 
 Below is a table of all current permissions and their hexidecimal values:
 
