@@ -13,7 +13,7 @@ This channel is used for things such as:
 * Recieving Error Pages.
 * Unresponsive Website.
 * Inability to submit Forms.
-* Bug Reports (Ping: @Toxic Dev)
+* Bug Reports (Ping: @TheRealToxicDev)
 
 
 ---
