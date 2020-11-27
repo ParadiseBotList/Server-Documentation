@@ -10,7 +10,7 @@ testing bots is simple and can be done in the `staff-sandbox` channel OR in our 
 
 ## Sandbox Does and Donts
 Our sandbox channels are publicly viewable, everyone in the server can see what you do and say,
-keep in mind that you represent us Paradise Bots and what you say and do here can have an impact on us as a community.
+keep in mind that you represent Paradise Bots and what you say and do here can have an impact on us as a community.
 here's some general rules and guidelines to help keep everyone safe and happy!!
 1. Absolutely **NO** Racism or Discrimination from Staff Members or Bots.
 2. No hate speech (ie: ping a owner to tell them their bot is garbage) 
